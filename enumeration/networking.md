@@ -1,0 +1,20 @@
+# Networking
+
+| Command                     | Description and/or Reason                                                                                                                                                                    |
+| --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| hostname -f                 |                                                                                                                                                                                              |
+| ip addr show                |                                                                                                                                                                                              |
+| ip ro show                  |                                                                                                                                                                                              |
+| ifconfig -a                 |                                                                                                                                                                                              |
+| route -n                    |                                                                                                                                                                                              |
+| cat /etc/network/interfaces |                                                                                                                                                                                              |
+| iptables -L -n -v           |                                                                                                                                                                                              |
+| iptables -t nat -L -n -v    |                                                                                                                                                                                              |
+| ip6tables -L -n -v          |                                                                                                                                                                                              |
+| iptables-save               |                                                                                                                                                                                              |
+| netstat -anop               |                                                                                                                                                                                              |
+| netstat -r                  |                                                                                                                                                                                              |
+| netstat -nltupw             | root with raw sockets                                                                                                                                                                        |
+| arp -a                      |                                                                                                                                                                                              |
+| lsof -nPi                   |                                                                                                                                                                                              |
+| cat /proc/net/\*            | more discreet, all the information given by the above commands can be found by looking into the files under /proc/net, and this approach is less likely to trigger monitoring or other stuff |

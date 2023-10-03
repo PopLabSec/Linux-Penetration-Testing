@@ -5,6 +5,12 @@
 ## Enumeration
 
 * [💖 Enumeration Tools](enumeration/enumeration-tools.md)
+* [Generic](enumeration/generic.md)
+* [System](enumeration/system.md)
+* [Networking](enumeration/networking.md)
+* [User Accounts](enumeration/user-accounts.md)
+* [Configs](enumeration/configs.md)
+* [Distro Related](enumeration/distro-related.md)
 
 ## Hacking Services
 
