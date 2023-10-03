@@ -6,14 +6,18 @@
 
 * [💖 Enumeration Tools](enumeration/enumeration-tools.md)
 
-## Team
+## Hacking Services
 
-* [👋 Meet the Team!](team/meet-the-team.md)
+* [Page 2](hacking-services/page-2.md)
 
 ## Privilege Escalation
 
 * [Page](privilege-escalation/page.md)
 
-## Policies
+## Persistence
 
-* [🌴 Requesting Time Off](policies/requesting-time-off.md)
+* [Page 1](persistence/page-1.md)
+
+## Linux Exploits
+
+* [Page 3](linux-exploits/page-3.md)
