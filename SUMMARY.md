@@ -20,4 +20,5 @@
 
 ## Linux Exploits
 
-* [Page 3](linux-exploits/page-3.md)
+* [Dirty Pipe CVE-2022-0847](linux-exploits/dirty-pipe-cve-2022-0847.md)
+* [Dirty COW CVE-2016-5195](linux-exploits/dirty-cow-cve-2016-5195.md)
