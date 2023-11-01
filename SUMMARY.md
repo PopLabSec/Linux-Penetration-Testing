@@ -11,6 +11,7 @@
 * [User Accounts](enumeration/user-accounts.md)
 * [Configs](enumeration/configs.md)
 * [Distro Related](enumeration/distro-related.md)
+* [Page 3](enumeration/page-3.md)
 
 ## Hacking Services
 
