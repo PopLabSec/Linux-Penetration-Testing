@@ -19,7 +19,8 @@
 
 ## Privilege Escalation
 
-* [Page](privilege-escalation/page.md)
+* [DOAS](privilege-escalation/doas.md)
+* [Swap Memory](privilege-escalation/swap-memory.md)
 
 ## Persistence
 
