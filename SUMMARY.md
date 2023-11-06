@@ -4,7 +4,7 @@
 
 ## Enumeration
 
-* [💖 Enumeration Tools](enumeration/enumeration-tools.md)
+* [Enumeration Tools](enumeration/enumeration-tools.md)
 * [Generic](enumeration/generic.md)
 * [System](enumeration/system.md)
 * [Networking](enumeration/networking.md)
